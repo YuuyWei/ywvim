@@ -1,13 +1,13 @@
 # vim:fileencoding=utf-8:list:listchars=trail\:]:
 [Description]
-Name=小鹤双拼
+Name=鹤形
 MaxCodes=4
 MaxElement=0
 UsedCodes=abcdefghijklmnopqrstuvwxyz
 WildChar=*
 NumRules=0
-EnChar=v
-
+EnChar='
+InputZhSecKeys=;
 [CharDefinition]
 
 [Punctuation]
